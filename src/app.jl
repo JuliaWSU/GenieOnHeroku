@@ -1,4 +1,3 @@
-import Pkg; Pkg.add("Genie")
 using Genie
 using Genie.Router
 
