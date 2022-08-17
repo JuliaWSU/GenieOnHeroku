@@ -1,5 +1,5 @@
 
-Note the following advice is a build old, therefore a hack is required, replace Project.toml and Manifest.toml appropriately from here:
+Note the following advice is a bit old (its an old build), therefore a hack is required, replace Project.toml and Manifest.toml appropriately from here:
 [Manifest.toml](https://github.com/TobiasSkovgaardJepsen/genie-webapp/blob/master/Manifest.toml)
 [Project.toml](https://github.com/TobiasSkovgaardJepsen/genie-webapp/blob/master/Project.toml)
 
