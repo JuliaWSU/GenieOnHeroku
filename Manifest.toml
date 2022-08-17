@@ -64,7 +64,6 @@ uuid = "7b1f6079-737a-58dc-b8bc-7a2ca5c1b5ee"
 deps = ["ArgParse", "Dates", "Distributed", "Gumbo", "HTTP", "HttpCommon", "JSON", "Markdown", "MbedTLS", "Millboard", "MiniLogging", "Nettle", "Nullables", "OrderedCollections", "Pkg", "Reexport", "Revise", "SHA", "Serialization", "Sockets", "URIParser", "Unicode", "YAML"]
 git-tree-sha1 = "bf7ea5bc926ead83b53498f632216b5a24572a34"
 repo-rev = "master"
-repo-url = "https://github.com/genieframework/Genie.jl"
 uuid = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
 version = "0.13.3"
 
