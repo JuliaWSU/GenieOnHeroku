@@ -16,7 +16,7 @@ buildpack-julia).
 
 Steps:
 ```
-git clone https://github.com/milesfrain/GenieOnHeroku.git
+git clone https://github.com/JuliaWSU/GenieOnHeroku.git
 cd GenieOnHeroku
 HEROKU_APP_NAME=my-app-name
 heroku create $HEROKU_APP_NAME --buildpack https://github.com/Optomatica/heroku-buildpack-julia.git
